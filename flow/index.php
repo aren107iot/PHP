@@ -14,7 +14,7 @@ if ($score >= 60) {
 echo '<hr>';
 
 echo '放榜結果:<br>';
-$level = '';
+$level = 'C';
 switch ($level) {
   case "C":
     echo '你得到C level';
